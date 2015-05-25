@@ -3,6 +3,7 @@
     package="com.wlangiewicz.hdwalletwatch" >
 
     <uses-permission android:name="ANDROID.PERMISSION.INTERNET"/>
+    <uses-permission android:name="android.permission.CAMERA" />
 
     <application
         android:allowBackup="true"
